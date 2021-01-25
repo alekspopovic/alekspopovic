@@ -1,6 +1,6 @@
 <!--- To learn how to set up something similar to this check out my YouTube tutorial where I go over tips and tricks for setting up a GitHub profile ReadMe: https://www.youtube.com/watch?v=OIFN1pe72B4 -->
 
-<img src="/BannerTransparent.png" alt="banner" />
+<img src="/logo.png" alt="banner" />
 
 ### Hi there and welcome to my GitHub page 👋
 
@@ -43,9 +43,7 @@ My name is Aleks Popovic and I am a web developer from Belgrade, Serbia. I do a 
   <a href="https://www.instagram.com/aleks.popovic/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/alekspopovic/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
+  <a href="https://www.linkedin.com/in/alekspopovic/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 ---
